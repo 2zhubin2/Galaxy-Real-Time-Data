@@ -1,2 +1,3 @@
 # Galaxy-Real-Time-Data
 "Galaxy Real-Time Data"technical support
+"Galaxy Real-Time Data" is an app for exchanging currency data information. Users can watch the related developments of virtual currency published by others on the home page, and also publish their own ideas. They can supervise the content through reporting and blocking mechanism. Users can also view the latest quotation information of virtual currency on the data page provided by us. Read some related articles, etc. This platform only provides information reading, does not support trading function, hope to bring you a good experience…For any comments and suggestions, please contact us:“Galaxy Real-Time Data” official email:wqq2vic@126.com
